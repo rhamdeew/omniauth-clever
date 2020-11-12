@@ -6,7 +6,7 @@ Unofficial OmniAuth strategy for [Clever SSO OAuth2](https://dev.clever.com/sso)
 
 Add the gem to your application's Gemfile:
 
-    gem 'omniauth-clever', git: 'https://github.com/rhamdeew/omniauth-clever'
+    gem 'omniauth-clever', git: 'https://github.com/DualbootPartnersLLC/omniauth-clever'
 
 
 And then execute:
